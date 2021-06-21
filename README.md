@@ -1,4 +1,5 @@
 # first-react-task-authentication
 
-# npm install
-# npm start
+$ npm install
+
+$ npm start
